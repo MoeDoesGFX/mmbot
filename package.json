@@ -1,0 +1,22 @@
+{
+  "name": "FrozenHappySets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.10.0"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.0-dev.1635033917.579569a",
+    "edit-json-file": "^1.6.0",
+    "noblox.js": "^4.12.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
